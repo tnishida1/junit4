@@ -6,7 +6,7 @@
     <artifactId>junit</artifactId>
     <version>4.13-SNAPSHOT</version>
 
-    <name>JUnit</name>
+    <name>JUnit!</name>
     <description>JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.</description>
     <url>http://junit.org</url>
     <inceptionYear>2002</inceptionYear>
